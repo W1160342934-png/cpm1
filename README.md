@@ -1,16 +1,13 @@
-# 枯木犹有逢春时
-for IOS
+# 枯木犹逢春时
+apk update
 
 apk add git
 
-apk add python3
+python3 py3-pip -y 
 
-apk add py3-pip
+pip3 install requests rich 
 
-pip install requests
+git clonehttps://github.com/W1160342934-png/YDD-.git
 
-git clone https://github.com/W1160342934-png/YDD-.git
+cd YDD-/cpm 2>/dev/nul1
 
-cd ydd-/cpm
-
-git clone
